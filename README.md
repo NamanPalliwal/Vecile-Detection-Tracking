@@ -1,0 +1,2 @@
+# Vecile-Detection-Tracking
+ The basic objective of this project is to apply the concepts of HOG and Machine Learning to detect a Vehicle from a dashboard video. The datasets used are obtained from GTI and KITTI Vision. If a model with a high accuracy can be made, then the same framework can be used for various other companies and organizations in many different fields related to object detection and tracking.
